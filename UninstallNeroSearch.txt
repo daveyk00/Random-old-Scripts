@@ -1,0 +1,3 @@
+DESCRIPTION	Removes Nero Search Bar
+USED WITH	nil
+REQUIREMENTS:	Nero Must be installed

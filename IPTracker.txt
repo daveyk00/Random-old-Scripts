@@ -1,0 +1,3 @@
+DESCRIPTION	Pings a list of IP Addresses and creates text documents of IP's that fail to respond.  Creates text document IPList.txt in the same directory as command is run from
+USED WITH	IPList.txt
+REQUIREMENTS:	Launched with to commands - first address of IP - last address of IP.  IE: iptracker.bat 1 15 will ping 192.168.0.1 to 192.168.0.15.  Change the batch file for a different range (IE: 10.0.0.x)

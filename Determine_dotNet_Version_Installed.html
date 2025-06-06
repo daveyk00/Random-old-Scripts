@@ -1,0 +1,16 @@
+<script language="JavaScript" type="text/javascript">
+
+var a = navigator.userAgent.match(/\.NET CLR [0-9.]+/g);
+ if (a == null)
+   document.write( ".NET Framework(s) is not installed" )
+ else
+ {
+   document.write
+ ( "The following versions of .NET Frameworks are installed:<br/>" )
+   for (i = 0; i < a.length; ++i)
+   {
+      document.write( a[i] )
+      document.write( "<br/>" )
+   }     
+ }
+ </script>

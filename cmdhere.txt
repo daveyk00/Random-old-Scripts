@@ -1,0 +1,3 @@
+DESCRIPTION	Creates context menu (right-click CMDHERE) that opens command prompt in the currently selected directory
+USED WITH	nil
+REQUIREMENTS:	nil - just import

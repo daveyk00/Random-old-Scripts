@@ -1,0 +1,3 @@
+DESCRIPTION	This program will take a filename on command line, and list number of files matched and total size.
+USED WITH	nil
+REQUIREMENTS:	Running without parameters will list all files in current directory

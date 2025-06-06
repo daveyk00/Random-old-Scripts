@@ -1,0 +1,90 @@
+shell:AddNewProgramsFolder - Opens the Install a program from the network location.
+shell:Administrative Tools - Opens the Administrative Tools section of the Control Panel.
+shell:AppData - Opens the hidden location C:\Users\(your username)\AppData\Roaming
+shell:AppUpdatesFolder - Opens the Installed Windows Updates location in Program and Files.
+shell:Cache - Opens Internet Explorer’s temporary internet files folder.
+shell:CD Burning - Opens the location where files are stored temporarily before Windows Vista burns them.
+shell:ChangeRemoveProgramsFolder - Opens Programs and Features in the Control Panel.
+shell:Common Administrative Tools - Opens the Administrative Tools section of the Control Panel.
+shell:Common AppData - Opens the hidden location C:\ProgramData
+shell:Common Desktop - Opens the Public Users Desktop folder location. C:\Users\Public\Desktop
+shell:Common Documents - Opens the Public Users Documents folder location. C:\Users\Public\Documents
+shell:Common Programs - Opens the Start menu shortcuts location.
+shell:Common Start Menu - Opens the location of the shortcut links in your Start Menu.
+shell:Common Startup - Opens the location where shortcuts to programs that are set to start when Vista boots up are saved.
+shell:Common Templates - Opens C:\ProgramData\Microsoft\Windows\Templates
+shell:CommonDownloads - Opens the Public Users Downloads folder location. C:\Users\Public\Downloads
+shell:CommonMusic - Opens the Public Users Music folder location. C:\Users\Public\Music
+shell:CommonPictures - Opens the Public Users Pictures folder location. C:\Users\Public\Pictures
+shell:CommonVideo - Opens the Public Users Video folder location. C:\Users\Public\Videos
+shell:ConflictFolder - Opens the Sync Center Conflicts location.
+shell:ConnectionsFolder - Quickly open Network Connections.
+shell:Contacts - Opens your username's Contacts folder location.
+shell:ControlPanelFolder - Opens the Control Panel.
+shell:Cookies - Opens the folder where Internet Explorer saves it’s cookies.
+shell:CredentialManager - Opens the hidden C:\Users\(your username)\AppData\Roaming\
+Microsoft\Credentials
+shell:CryptoKeys - Opens the hidden C:\Users\(your username)\AppData\Roaming\Microsoft\Crypto
+shell:CSCFolder
+shell:default Gadgets - Opens the default Windows Sidebar Gadgets location.
+shell:desktop - Opens your personal username's Desktop folder location.
+shell:downloads - Opens your personal username's Downloads folder location.
+shell:dpapiKeys - Opens the hidden C:\Users\(your username)\AppData\Roaming\Microsoft\Protect
+shell:Favorites - Opens your personal username's Favorites folder location.
+shell:Fonts - Opens Vista's Fonts folder location.
+shell:Gadgets - Opens your user account's Windows Sidebar Gadgets that you saved location.
+shell:Games - Opens the Games folder from the left Start menu button location.
+shell:GameTasks - Opens the hidden C:\Users\(your username)\AppData\Local\Microsoft\Windows\
+GameExplorer
+shell:History - Opens Internet Explorer’s history of websites visited.
+shell:InternetFolder Opens the 32 bit Internet Explorer.
+shell:Links - Opens your personal username's Links folder location.
+shell:Local AppData Opens the hidden C:\Users\(your username)\AppData\Local
+shell:LocalAppDataLow - Opend the hidden C:\Users\(your username)\AppData\LocalLow
+shell:LocalizedResourcesDir
+shell:MAPIFolder
+shell:My Music - Opens your personal username's Music folder location.
+shell:My Pictures - Opens your personal username's Pictures folder location.
+shell:My Video - Opens your personal username's Video folder location.
+shell:MyComputerFolder - Opens Computer window.
+shell:NetHood - Opens Network Shortcuts folder location.
+shell:NetworkPlacesFolder Opens the Network Places location.
+shell:OEM Links - Opens the links placed on your computer by your computer manufacturer location.
+shell:Original Images - Opens Windows Photo Gallery Original Images folder location.
+shell:Personal - Opens your personal username's Documents folder location.
+shell:PhotoAlbums - Opens the Slide Show folder location for your username's Pictures folder.
+shell:Playlists - Opens the Playlists folder location for your username's Music folder.
+shell:PrintersFolder - Opens Printers in the Control Panel.
+shell:PrintHood - Opens the Printer Shortcuts location.
+shell:Profile - Opens your main username folder location.
+shell:ProgramFiles - Opens the Program Files folder.
+shell:ProgramFilesCommon - Opens the Common Files folder in Program Files.
+shell:ProgramFilesCommonX86 - Opens the Common Files folder in Program Files (x86).
+shell:ProgramFilesX86 - Opens the Program Files (x86) folder.
+shell:Programs - Opens the Start menu's Programs shortcuts location.
+shell:Public - Opens the Public User folder.
+shell:PublicGameTasks - Opens C:\ProgramData\Microsoft\Windows\GameExplorer
+shell:Quick Launch - Opens the Quick Launch shortcuts folder location.
+shell:Recent - Opens Recent Items location.
+shell:RecycleBinFolder - Opens the Recycle Bin folder.
+shell:ResourceDir - Opens Vista's Resources folder location.
+shell:SampleMusic - Opens the Sample Music folder in the Public Users folder.
+shell:SamplePictures - Opens the Sample Pictures folder in the Public Users folder.
+shell:SamplePlaylists - Opens the Sample Playlist folder in the Public Users folder.
+shell:SampleVideos - Opens the Sample Videos folder in the Public Users folder.
+shell:SavedGames - Opens your personal username's Saved Games folder location.
+shell:Searches - Opens your personal username's Searches folder location.
+shell:SendTo - Opens the Context menu's SendTo folder location.
+shell:Start Menu - Opens the location of the shortcut links in your Start Menu.
+shell:Startup - Opens the location where shortcuts to programs that are set to start when Vista boots up are saved.
+shell:SyncCenterFolder - Opens Sync Center from the Control Panel.
+shell:SyncResultsFolder - Opens the Sync Results for the Sync Center.
+shell:SyncSetupFolder - Open the Setup new sync partnerships in the Sync Center.
+shell:System - Opens the System32 folder location.
+shell:SystemCertificates Opens the SystemCertificates folder location.
+shell:SystemX86 - Opens the SysWowxx folder location.
+shell:Templates - Opens the Templates folder location.
+shell:TreePropertiesFolder
+shell:UserProfiles - Opens the "C:\Users" location.
+shell:UsersFilesFolder - Opens your main username folder location.
+shell:Windows - Opens the "C:\Windows" location.

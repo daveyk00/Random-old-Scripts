@@ -1,0 +1,4 @@
+DESCRIPTION	Disables MS Silverlight Automatic Updates
+USED WITH	Microsoft Silverlight
+REQUIREMENTS:	Registry Script must be imported after silverlight install
+		IE:  reg import "\\remotePC\Share\DisableSilverlightAU.reg"

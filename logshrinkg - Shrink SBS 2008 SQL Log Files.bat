@@ -1,0 +1,1 @@
+sqlcmd -S \\.\pipe\mssql$microsoft##ssee\sql\query -E -i logshrink.sql

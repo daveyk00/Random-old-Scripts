@@ -1,0 +1,4 @@
+DESCRIPTION	Emails Xcopy log file from Xcopy run within script to designated address
+USED WITH	bmail.exe
+REQUIREMENTS:	Must be edited for use in each scenario
+		Xcopy must be run from within batch file (IE: Xcopy must be run from this batch file, logging to %temp%\xcopyresults.log)

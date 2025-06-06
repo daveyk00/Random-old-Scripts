@@ -1,0 +1,1 @@
+Get-EventLog -Logname Application -Source Microsoft-Windows-Winsrv | Where-Object {$_.EventID -eq 10001} | Select TimeGenerated,ReplacementStrings

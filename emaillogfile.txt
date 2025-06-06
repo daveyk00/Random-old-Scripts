@@ -1,0 +1,4 @@
+DESCRIPTION	Script that includes emails designated log file
+USED WITH	bmail.exe
+REQUIREMENTS:	Must be edited for use in each scenario
+		

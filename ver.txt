@@ -1,0 +1,242 @@
+In July 2009, I posted a table that outlined a number of Microsoft software versions. In this update, I provide additional information (including updates released since the original chart and details from astute TechRepublic members), and I make a downloadable version available (per reader request). Further, I’ve added SMS/SCCM history and all versions of Windows back to Windows 95 in the DOS line and Windows NT 3.1 in the NT line.
+
+The table below is broken down into four columns:
+Release date. This is the month and the year in which a particular release was made available. Bear in mind that there can be multiple release dates. For example, was Windows 7 released in August 2009 or October 2009? Well, it depends on how you look at it. The RTM bits were available starting August 6, 2009, but general availability didn’t hit until October 22, 2009.
+Software title/version. For example, Windows XP, Exchange Server 2003
+Revision level. RTM, SP1, etc. 
+CU stands for Cumulative Update.
+CH stands for Cumulative Hotfix.
+UR stands for Update Rollup.
+RTM stands for Release to Manufacturing. I use RTM to describe the initial release of a product. Technically, every release has an RTM period, but RTM is commonly used in the manner in which I’ve described.
+Build number. The internal build number often causes confusion because it doesn’t always match the product name. For example, Windows 7 RTM has a build number of 6.1.7600.16385, thereby “proving” to some that Windows 7 is a minor release. The build number is simply an interval versioning mechanism. If you know where I can find additional build information (especially older SMS build numbers), please let me know in the comments section. I only included release versions of products; no beta versions are included.
+
+Note: Some date and build bits are missing simply because I could not find a resource that outlined that particular data point. If you know the information or you come across it, please post a comment so that I can include the information in the next version of the chart.
+Release date	Software title/version	Revision level	Build number
+Windows	 	 	 
+Aug-95	Windows 95	RTM	4.00.950
+Feb-96	Windows 95	SP1/OSR 1	4.00.950A
+Aug-96	Windows 95	OSR 2	4.00.950B
+Aug-97	Windows 95	OSR 2.1	4.00.950B
+Nov-97	Windows 95	OSR 2.5	4.00.950C
+Jun-98	Windows 98	RTM	4.10.1998
+May-99	Windows 98 Second Edition	RTM	4.10.2222A
+Sep-00	Windows ME	RTM	4.90.3000
+Jul-93	Windows NT 3.1	RTM	3.10.511
+ 	Windows NT 3.1	SP1	3.10.511 Service Pack 1
+ 	Windows NT 3.1	SP2	3.10.511 Service Pack 2
+Nov-94	Windows NT 3.1	SP3	3.10.528 Service Pack 3
+Sep-94	Windows NT 3.5	RTM	3.50.807
+ 	Windows NT 3.5	SP1	3.50.807 Service Pack 1
+ 	Windows NT 3.5	SP2	3.50.807 Service Pack 2
+Jun-95	Windows NT 3.5	SP3	3.50.807 Service Pack 3
+May-95	Windows NT 3.51	RTM	3.51.1057
+ 	Windows NT 3.51	SP1	3.51.1057 Service Pack 1
+Oct-95	Windows NT 3.51	SP2	3.51.1057 Service Pack 2
+Dec-95	Windows NT 3.51	SP3	3.51.1057 Service Pack 3
+Jul-96	Windows NT 3.51	SP4	3.51.1057 Service Pack 4
+Sep-96	Windows NT 3.51	SP5	3.51.1057 Service Pack 5
+Jul-96	Windows NT 4.0	RTM	4.0.1381
+Oct-96	Windows NT 4.0	SP1	4.0.1381 Service Pack 1
+Dec-96	Windows NT 4.0	SP2	4.0.1381 Service Pack 2
+May-97	Windows NT 4.0	SP3	4.0.1381 Service Pack 3
+Oct-98	Windows NT 4.0	SP4	4.0.1381 Service Pack 4
+May-99	Windows NT 4.0	SP5	4.0.1381 Service Pack 5
+Nov-99	Windows NT 4.0	SP6	4.0.1381 Service Pack 6
+Nov-99	Windows NT 4.0	SP6a	4.0.1381 Service Pack 6
+Feb-00	Windows 2000	RTM	5.0.2195
+Aug-00	Windows 2000	SP1	5.0.2195 Service Pack 1
+May-01	Windows 2000	SP2	5.0.2195 Service Pack 2
+Aug-02	Windows 2000	SP3	5.0.2195 Service Pack 3
+Jun-03	Windows 2000	SP4	5.0.2195 Service Pack 4
+Oct-01	Windows XP	RTM	5.1.2600
+Sep-02	Windows XP	SP1	5.1.2600.1106
+Aug-04	Windows XP	SP2	5.1.2600.2180
+Apr-08	Windows XP	SP3	5.1.2600.5512
+Apr-03	Windows Server 2003	RTM	5.2.3790
+Mar-05	Windows Server 2003	SP1	5.2.3790.1180
+Mar-07	Windows Server 2003	SP2	5.2.3790.3959
+Dec-05	Windows Server 2003 R2	SP1	5.2.3790.1180
+Jul-06	Windows Fundamentals	SP3	5.1.2600.5512
+Nov-06	Windows Vista	RTM	6.0.6000.16386
+Feb-08	Windows Vista	SP1	6.0.6001.18000
+Apr-09	Windows Vista	SP2	6.0.6002.18005
+Jul-07	Windows Home Server	 	5.2.4500
+Feb-08	Windows Server 2008	RTM/SP1	6.0.6001.18000
+Apr-09	Windows Server 2008	SP2	6.0.6002.18005
+Oct-09	Windows 7	RTM	6.1.7600.16385
+Oct-09	Windows Server 2008 R2	RTM	6.1.7600.16385
+SQL Server	 	 	 
+ 	SQL Server 6.0	RTM	6.00.121
+ 	SQL Server 6.0	SP1	6.00.124
+ 	SQL Server 6.0	SP2	6.00.139
+ 	SQL Server 6.0	SP3	6.00.151
+ 	SQL Server 6.5	RTM	6.50.201
+ 	SQL Server 6.5	SP1	6.50.213
+Jun-97	SQL Server 6.5	SP2	6.50.240
+Jul-97	SQL Server 6.5	SP3	6.50.258
+Mar-98	SQL Server 6.5	SP4	6.50.281
+Jan-99	SQL Server 6.5	SP5	6.50.415
+ 	SQL Server 6.5	SP5a	6.50.416
+ 	SQL Server 6.5	Post SP5	6.50.479
+Jan-99	SQL Server 7.0	RTM	7.00.623
+Jul-99	SQL Server 7.0	SP1	7.00.699
+Mar-00	SQL Server 7.0	SP2	7.00.842
+Dec-00	SQL Server 7.0	SP3	7.00.961
+Apr-02	SQL Server 7.0	SP4	7.00.1063
+Nov-00	SQL Server 2000	RTM	8.00.194
+Jun-01	SQL Server 2000	SP1	8.00.384
+Nov-01	SQL Server 2000	SP2	8.00.534
+Jan-03	SQL Server 2000	SP3	8.00.760
+May-03	SQL Server 2000	SP3a	8.00.760 (8.00.766)
+Jun-05	SQL Server 2000	SP4	8.00.2039
+Jan-06	SQL Server 2005	RTM	9.00.1399
+Apr-06	SQL Server 2005	SP1	9.00.2047
+Feb-09	SQL Server 2005	SP2	9.00.3042
+Mar-07	SQL Server 2005	SP2a	9.00.3042.01
+Mar-07	SQL Server 2005	SP2 CH	9.00.3152
+Apr-07	SQL Server 2005	SP2 CU1	9.00.3161
+Jun-07	SQL Server 2005	SP2 CU2	9.00.3175
+Aug-07	SQL Server 2005	SP2 CU3	9.00.3186
+Oct-07	SQL Server 2005	SP2 CU4	9.00.3200
+Dec-07	SQL Server 2005	SP2 CU5	9.00.3215
+Feb-08	SQL Server 2005	SP2 CU6	9.00.3228
+Apr-08	SQL Server 2005	SP2 CU7	9.00.3239
+Jun-08	SQL Server 2005	SP2 CU8	9.00.3257
+Aug-08	SQL Server 2005	SP2 CU9	9.00.3282
+Oct-08	SQL Server 2005	SP2 CU10	9.00.3294
+Dec-08	SQL Server 2005	SP2 CU11	9.00.3301
+Feb-09	SQL Server 2005	SP2 CU12	9.00.3315
+Apr-09	SQL Server 2005	SP2 CU13	9.00.3225
+Jun-09	SQL Server 2005	SP2 CU14	9.00.3328
+Aug-09	SQL Server 2005	SP2 CU15	9.00.3330
+Oct-09	SQL Server 2005	SP2 CU16	9.00.3355
+Dec-09	SQL Server 2005	SP2 CU17	9.00.3356
+Dec-08	SQL Server 2005	SP3	9.00.4035
+Dec-08	SQL Server 2005	SP3 CU1	9.00.4207
+Feb-09	SQL Server 2005	SP3 CU2	9.00.4211
+Apr-09	SQL Server 2005	SP3 CU3	9.00.4220
+Jun-09	SQL Server 2005	SP3 CU4	9.00.4226
+Aug-09	SQL Server 2005	SP3 CU5	9.00.4230
+Oct-09	SQL Server 2005	SP3 CU6	9.00.4266
+Dec-09	SQL Server 2005	SP3 CU7	9.00.4273
+Aug-08	SQL Server 2008	RTM	10.00.1600
+Sep-08	SQL Server 2008	RTM CU1	10.00.1763
+Nov-08	SQL Server 2008	RTM CU2	10.00.1779
+Jan-09	SQL Server 2008	RTM CU3	10.00.1787
+Mar-09	SQL Server 2008	RTM CU4	10.00.1798
+May-09	SQL Server 2008	RTM CU5	10.00.1806
+Jul-09	SQL Server 2008	RTM CU6	10.00.1812
+Sep-09	SQL Server 2008	RTM CU7	10.00.1818
+Nov-09	SQL Server 2008	RTM CU8	10.00.1823
+Apr-09	SQL Server 2008	SP1	10.00.2531
+Apr-09	SQL Server 2008	SP1 CU1	10.00.2710
+May-09	SQL Server 2008	SP1 CU2	10.00.2714
+Jul-09	SQL Server 2008	SP1 CU3	10.00.2723
+Sep-09	SQL Server 2008	SP1 CU4	10.00.2728
+Nov-09	SQL Server 2008	SP1 CU5	10.00.2746
+Exchange Server	 	 	 
+Apr-96	Exchange Server 4.0	RTM	4.0.837
+May-96	Exchange Server 4.0	SP1	4.0.838
+Aug-96	Exchange Server 4.0	SP2	4.0.993
+Nov-96	Exchange Server 4.0	SP3	4.0.994
+Apr-97	Exchange Server 4.0	SP4	4.0.995
+May-98	Exchange Server 4.0	SP5	4.0.996
+Mar-97	Exchange Server 5.0	RTM	5.0.1457
+Jun-97	Exchange Server 5.0	SP1	5.0.1458
+Feb-98	Exchange Server 5.0	SP2	5.0.1460
+Nov-97	Exchange Server 5.5	RTM	5.5.1960
+Jul-98	Exchange Server 5.5	SP1	5.5.2232
+Dec-98	Exchange Server 5.5	SP2	5.5.2448
+Sep-99	Exchange Server 5.5	SP3	5.5.2650
+Nov-00	Exchange Server 5.5	SP4	5.5.2653
+Oct-00	Exchange 2000 Server	RTM	6.0.4417
+Jul-01	Exchange 2000 Server	SP1	6.0.4712
+Dec-01	Exchange 2000 Server	SP2	6.0.5762
+Aug-02	Exchange 2000 Server	SP3	6.0.6249
+Sep-03	Exchange 2000 Server	Post SP3 update	6.0.6487
+Apr-04	Exchange 2000 Server	Post SP3 update	6.0.6556
+Aug-04	Exchange 2000 Server	Post SP3 update	6.0.6603
+Oct-03	Exchange Server 2003	RTM	6.5.6944
+May-04	Exchange Server 2003	SP1	6.5.7226
+Oct-05	Exchange Server 2003	SP2	6.5.7638
+Dec-06	Exchange Server 2007	RTM	8.0.685.24 or 8.0.685.25
+Apr-07	Exchange Server 2007	RTM UR1	8.0.708.3
+May-07	Exchange Server 2007	RTM UR2	8.0.711.2
+Jun-07	Exchange Server 2007	RTM UR3	8.0.730.1
+Aug-07	Exchange Server 2007	RTM UR4	8.0.744.0
+Oct-07	Exchange Server 2007	RTM UR5	8.0.754.0
+Feb-08	Exchange Server 2007	RTM UR6	8.0.783.2
+Jul-08	Exchange Server 2007	RTM UR7	8.0.813.0
+Nov-07	Exchange Server 2007	SP1	8.1.0240.006
+Feb-08	Exchange Server 2007	SP1 UR1	8.1.263.1
+May-08	Exchange Server 2007	SP1 UR2	8.1.278.2
+Jul-08	Exchange Server 2007	SP1 UR3	8.1.291.2
+Oct-08	Exchange Server 2007	SP1 UR4	8.1.311.3
+Nov-08	Exchange Server 2007	SP1 UR5	8.1.336.1
+Feb-09	Exchange Server 2007	SP1 UR6	8.1.340.1
+Mar-09	Exchange Server 2007	SP1 UR7	8.1.359.2
+May-09	Exchange Server 2007	SP1 UR8	8.1.375.2
+Jul-09	Exchange Server 2007	SP1 UR9	8.1.293.1
+Aug-09	Exchange Server 2007	SP2	8.2.0176.002
+Nov-09	Exchange Server 2007	SP2 UR1	8.2.217.3
+Oct-09	Exchange Server 2010	RTM	14.00.0639.021
+Dec-09	Exchange Server 2010	RTM UR1	14.0.682.1
+SMS/SCCM	 	 	 
+Jan-94	SMS 1.0	RTM	 
+Nov-95	SMS 1.1	RTM	 
+Jul-96	SMS 1.2	RTM	 
+Nov-96	SMS 1.2	SP1	 
+May-97	SMS 1.2	SP2	 
+Dec-97	SMS 1.2	SP3	 
+Sep-98	SMS 1.2	SP4	 
+Jan-99	SMS 2.0	RTM	 
+ 	SMS 2.0	SP1	 
+Jul-99	SMS 2.0	SP2	 
+ 	SMS 2.0	SP3	 
+ 	SMS 2.0	SP4	 
+ 	SMS 2.0	SP5	 
+Oct-03	SMS 2003	RTM	2.50.2726.0020
+ 	SMS 2003	SP1	2.50.3174.1018
+Aug-05	SMS 2003	SP2	2.50.4160.2000
+Apr-07	SMS 2003	SP3	2.50.4253.3000
+Aug-07	SCCM 2007	RTM	4.00.5931.0000
+May-08	SCCM 2007	SP1	4.00.6221.1000
+Sep-08	SCCM 2007	R2	4.00.6221.1000
+Oct-09	SCCM 2007	SP2	4.00.6487.2000
+TBD	SCCM 2007	R3	Under development
+
+
+Remember that we also provide this table in a downloadable format.
+
+I culled version information from various resources in an effort to help readers more quickly and easily identify the exact versions of software that you may be running. It was an extraordinary undertaking to locate and verify this information; I searched through dozens of sites to piece together the information in the table. If you have additional information that could be useful, please leave a comment in the discussion.
+
+I really enjoyed putting this chart together, and I learned a lot about the history of a number of products in Microsoft’s portfolio. I hope you find the chart useful.
+
+
+
+
+XP
+
+SP1
+Microsoft Windows XP [Version 5.1.2600]
+
+SP2
+Microsoft Windows XP [Version 5.1.2600]
+
+SP3
+Microsoft Windows XP [Version 5.1.2600]
+
+
+
+Vista
+
+SP0
+Microsoft Windows [Version 6.0.6000]
+SP1
+Microsoft Windows [Version 6.0.6001]
+SP2
+Microsoft Windows [Version 6.0.6002]
+
+
+Windows 7 / 2008 R2
+Microsoft Windows [Version 6.1.7600]

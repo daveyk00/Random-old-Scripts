@@ -1,0 +1,5 @@
+DESCRIPTION	Deletes *.tmp, *.dmp from c:\ 
+		Deletes %temp% and %windir%\temp
+		Force defrag all volumes
+USED WITH	nil
+REQUIREMENTS:	nil

@@ -1,0 +1,4 @@
+DESCRIPTION	Backs up current users profile / Using RAR Compression / Keeping 7 runs
+USED WITH	Rar.exe
+REQUIREMENTS:	Must be edited for use in each scenario
+		

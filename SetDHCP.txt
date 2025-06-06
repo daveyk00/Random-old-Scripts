@@ -1,0 +1,3 @@
+DESCRIPTION	Changes IP to DHCP
+USED WITH	nil
+REQUIREMENTS:	Must be edited for use in each scenario - "Local Area Connection" is the physical name of the connection

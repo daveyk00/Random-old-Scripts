@@ -1,0 +1,3 @@
+DESCRIPTION	SMTP Command line emailer
+REQUIREMENTS:	Must be edited for use in each scenario
+		Backup must be run from within batch file (IE: Backup must be run from this batch file)
